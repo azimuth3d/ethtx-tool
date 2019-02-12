@@ -1,7 +1,7 @@
 const rawTx = {
-  nonce: 16,
+  nonce: 160,
   gasPrice: 10000000,
-  gasLimit: '0x2710',
+  gasLimit: 21000,
   to: '0x612226f04538fd002d061678289d9847b76ff15a',
   value: 10,
   data: '',
